@@ -1,6 +1,6 @@
 /* 
  * File:   solar_PIC18F2550.c
- * Author: Sajuuk
+ * Author: Khoa Lam
  *
  * Created on October 9, 2013, 3:48 PM
  */
